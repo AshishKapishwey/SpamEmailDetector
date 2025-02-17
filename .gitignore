@@ -1,0 +1,10 @@
+# Ignore model files
+model/spam_model.pkl
+model/vectorizer.pkl
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
